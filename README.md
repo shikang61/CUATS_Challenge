@@ -10,5 +10,6 @@ Note: A template code will be provided on the CUATS GitHub including the default
 
 
 Code Submission Deadline:** Saturday, 28 January 2023, 17:00**
+
 Submission of code and documentation to: _cuats.challenge@gmail.com_
 
