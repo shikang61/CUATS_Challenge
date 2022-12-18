@@ -16,12 +16,12 @@ Submission of code and documentation to: _cuats.challenge@gmail.com_
 
 **<ins> Plan </ins>**
 
-Step 1: Start by completing the QuantConnect Bootcamp. https://quantconnect.com/learning This will give you a good handle on the QuantConnect platform and a familiarity with its syntax
+**_Step 1_**: Start by completing the QuantConnect Bootcamp. https://quantconnect.com/learning This will give you a good handle on the QuantConnect platform and a familiarity with its syntax
 
-Step 2: Then look at the coding strategies on CUATS's GitHub https://github.com/CUATS we have presented in past coding sessions. This will give you an idea of how the algorithms are organised and the logic for implementing algorithms in QuantConnect
+_**Step 2**_: Then look at the coding strategies on CUATS's GitHub https://github.com/CUATS we have presented in past coding sessions. This will give you an idea of how the algorithms are organised and the logic for implementing algorithms in QuantConnect
 
-Step 3: Conduct (non-exhaustive) research to ascertain what trading types of strategies are being pursued currently and what the key assumptions and challenges are
+_**Step 3**_: Conduct (non-exhaustive) research to ascertain what trading types of strategies are being pursued currently and what the key assumptions and challenges are
 
-Step 4: Think about what market anomaly you want to exploit and start testing ideas for trading them using the template QuantConnect code provided. This will give you sense of whether the strategy a) works, and b) is implementable.
+_**Step 4**_: Think about what market anomaly you want to exploit and start testing ideas for trading them using the template QuantConnect code provided. This will give you sense of whether the strategy a) works, and b) is implementable.
 
-Step 5: Backtest the strategy over several 7 year periods from 1980 to the present. Your strategy should not be designed to work only during a specific 7 year period within this timeframe, it should work across all 7 year periods within this time period range. Use Resolution.Daily for the tick size to run backtests quickly and efficiently debug your algorithms.
+_**Step 5**_: Backtest the strategy over several 7 year periods from 1980 to the present. Your strategy should not be designed to work only during a specific 7 year period within this timeframe, it should work across all 7 year periods within this time period range. Use Resolution.Daily for the tick size to run backtests quickly and efficiently debug your algorithms.
