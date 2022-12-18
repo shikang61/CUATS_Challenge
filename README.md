@@ -8,13 +8,13 @@ Starting with a cash balance of **$100,000**, develop a trading algorithm that a
 
 Note: A template code will be provided on the CUATS GitHub including the default QuantConnect standard execution model and fees structure as well as maximum leverage limit of 10 -  similar to what has been used in our example strategies from the CUATS Coding Sessions. 
 
-# **Competition Details**
+# Competition Details:
 
 Code Submission Deadline: **Saturday, 28 January 2023, 17:00**
 
 Submission of code and documentation to: _cuats.challenge@gmail.com_
 
-# **Plan**
+# Plan:
 
 ### <ins> Stage 1: Learning </ins>
 
@@ -38,6 +38,6 @@ _**Step 5**_: Backtest the strategy over several 7 year periods from 1980 to the
 
 
 
-### Useful links
+#### Useful links
 
 https://github.com/CUATS/ChallengeCodingCompetition/discussions
