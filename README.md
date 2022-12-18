@@ -14,3 +14,6 @@ Code Submission Deadline: **Saturday, 28 January 2023, 17:00**
 
 Submission of code and documentation to: _cuats.challenge@gmail.com_
 
+<in> Plan </ins>
+
+Step 1: Learn the tools from QuantConnect: https://www.quantconnect.com/learning/
