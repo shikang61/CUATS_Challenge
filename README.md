@@ -14,7 +14,7 @@ Code Submission Deadline: **Saturday, 28 January 2023, 17:00**
 
 Submission of code and documentation to: _cuats.challenge@gmail.com_
 
-**<in> Plan </ins>**
+**<ins> Plan </ins>**
 
 Step 1: Start by completing the QuantConnect Bootcamp. https://quantconnect.com/learning This will give you a good handle on the QuantConnect platform and a familiarity with its syntax
 
