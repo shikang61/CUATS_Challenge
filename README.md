@@ -16,7 +16,7 @@ Submission of code and documentation to: _cuats.challenge@gmail.com_
 
 # **Plan**
 
-### _<ins> Stage 1: Learning </ins>_
+#### <ins> Stage 1: Learning </ins>
 
 Date to start: 18 Dec 2022
 
@@ -24,13 +24,13 @@ Date to start: 18 Dec 2022
 
 _**Step 2**_: Then look at the coding strategies on CUATS's GitHub https://github.com/CUATS we have presented in past coding sessions. This will give you an idea of how the algorithms are organised and the logic for implementing algorithms in QuantConnect
 
-### <ins> Stage 2: Research </ins>
+#### <ins> Stage 2: Research </ins>
 
 Date to start: 1 Jan 2023
 
 _**Step 3**_: Conduct (non-exhaustive) research to ascertain what trading types of strategies are being pursued currently and what the key assumptions and challenges are
 
-### <ins> Stage 3: Implementing </ins>
+#### <ins> Stage 3: Implementing </ins>
 
 _**Step 4**_: Think about what market anomaly you want to exploit and start testing ideas for trading them using the template QuantConnect code provided. This will give you sense of whether the strategy a) works, and b) is implementable.
 
