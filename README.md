@@ -21,6 +21,7 @@ Submission of code and documentation to: _cuats.challenge@gmail.com_
 _**Step 2**_: Then look at the coding strategies on CUATS's GitHub https://github.com/CUATS we have presented in past coding sessions. This will give you an idea of how the algorithms are organised and the logic for implementing algorithms in QuantConnect
 
 _**Step 3**_: Conduct (non-exhaustive) research to ascertain what trading types of strategies are being pursued currently and what the key assumptions and challenges are
+Time:
 
 _**Step 4**_: Think about what market anomaly you want to exploit and start testing ideas for trading them using the template QuantConnect code provided. This will give you sense of whether the strategy a) works, and b) is implementable.
 
