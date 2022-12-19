@@ -40,4 +40,6 @@ _**Step 5**_: Backtest the strategy over several 7 year periods from 1980 to the
 
 #### Useful links
 
-https://github.com/CUATS/ChallengeCodingCompetition/discussions
+Competition forum: https://github.com/CUATS/ChallengeCodingCompetition/discussions
+
+Research: https://quantpedia.com/
