@@ -1,0 +1,8 @@
+# Fill in the parameters section in the QuantConnect platform
+
+threshold = 2
+stoploss = 3
+takeprofit = 1.7
+rebalance_period = 12
+formation_period = 252
+pair_count = 15
